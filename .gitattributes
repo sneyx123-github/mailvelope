@@ -1,0 +1,14 @@
+*.txt           ident
+*.ps1           ident
+*.py            ident text eol=lf
+*.vim           ident text eol=lf
+*.json          ident text eol=lf
+*.sh            ident text eol=lf
+.bashrc         ident text eol=lf
+.bash_profile   ident text eol=lf
+.profile        ident text eol=lf
+_vim*           ident text eol=lf
+.gitignore      ident text eol=lf
+.gitattribute   ident text eol=lf
+.gitconfig      ident text eol=lf
+*.js            ident text eol=lf
